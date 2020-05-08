@@ -4,4 +4,5 @@ Proyecto 1 del curso de Android con Kotlin
 ### Integrantes
 
 Chilpa Navarro Martín Enrique  
-Espinosa Guadarrama Arturo
+Espinosa Guadarrama Arturo  
+Lagunas Parra Ana Paola  
